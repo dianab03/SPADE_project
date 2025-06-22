@@ -1,4 +1,4 @@
-# Enhanced Multi-Agent Customer Service System
+# Multi-Agent Customer Service System
 
 An multi-agent customer service system that uses SPADE (Smart Python Agent Development Environment) with intelligent processing and a web interface.
 
